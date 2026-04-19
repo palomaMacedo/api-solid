@@ -27,14 +27,14 @@
     "eslint": "10.2.1",
     "globals": "17.5.0",
     "jiti": "2.6.1",
+    "prisma": "7.7.0",
     "tsup": "^8.5.1",
     "tsx": "^4.21.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "8.58.2"
   },
   "dependencies": {
-    "-": "^0.0.1",
-    "D": "^1.0.0",
+    "@prisma/client": "7.7.0",
     "dotenv": "17.4.2",
     "fastify": "^5.8.5",
     "zod": "4.3.6"
