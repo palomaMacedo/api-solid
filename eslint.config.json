@@ -3,5 +3,9 @@
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended"
   ],
+  "rules": {
+    "camelcase": "off",
+    "no-useless-constructor": "off"  
+  },
   "parser": "@typescript-eslint/parser"
 }
