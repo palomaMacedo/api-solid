@@ -16,7 +16,7 @@
     // and npm install -D @types/node
     "baseUrl": "./",
     "paths": {
-      "@/*":["./src/*"]
+      "@/*":["prisma/src/*"]
     },
     // Other Outputs
     "sourceMap": true,
