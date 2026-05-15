@@ -64,7 +64,7 @@ docker-compose up -d
 npx prisma migrate dev
  
 # Start the server
-npm run dev
+npm start
 ```
  
 ---
